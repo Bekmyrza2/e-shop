@@ -1,0 +1,12 @@
+.contact{
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.row{
+    margin-top: 50px;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+}
